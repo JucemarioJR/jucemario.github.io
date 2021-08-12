@@ -1,0 +1,56 @@
+<html>
+	<head>
+		<title> PARTE2</title>
+	</head>
+	
+	<body>
+	
+	<h1 id="PAG2"> PAGINA 2</h1>
+	<p>FOI PARA A PAGINDA 1</p>
+	
+	<hr />
+	
+	<h1> TABELAS </h1>
+	
+	<table width="100" cellpadding="10" cellspacing="1">
+	   <tr>
+		<td>15</td>
+		<td>15</td>
+		<td>30</td>
+	   </tr>
+	   <tr>
+		<td>45</td>
+		<td>60</td>
+		<td>45</td>
+	   </tr>
+	   <tr>
+		<td>60</td>
+		<td>90</td>
+		<td>90</td>
+	   </tr>	
+	</table>
+	
+	<hr />
+	
+	<h1>DEVEDORES</h1>
+	
+	
+	<ul>
+	
+		<il> LUIZ PEDRO DA SILVA </il>
+		<il></il>
+		<il></il>
+		<il></il>
+		<il></il>
+		
+	
+	</ul>
+	
+	
+	
+	
+	tatyeps@hotmail.com
+	
+	</body>
+
+</html>
